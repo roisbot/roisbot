@@ -1,5 +1,5 @@
 alpaca-py==0.26.0
-pandas
+pandas>=2.3.2
 pandas-ta
 anthropic==0.25.0
 python-telegram-bot==20.7
